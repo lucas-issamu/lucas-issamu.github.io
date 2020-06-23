@@ -1,0 +1,57 @@
+.barrasuperior {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+    background-color: #000000;
+}
+  
+.box {
+    float: left;
+}
+  
+.bardisplay {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: solid;
+    font-size: 22px;
+}
+  
+.bardisplay:hover {
+    background-color: rgb(126, 126, 126);
+}
+
+.espacamento{
+    margin-left: 45px;
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 30px;
+    background-color: #000000;
+    color: white;
+    padding: 3px 0;
+    text-align: center;
+    line-height: 30px;
+ }
+
+.fas{
+    font-size: 30px;
+    float: right;
+    margin-right: 40px;
+    margin-top: 15px;
+    color: #b4b4b4;
+}
+
+ .fas:hover{
+     color: #f2f2f2
+ }
